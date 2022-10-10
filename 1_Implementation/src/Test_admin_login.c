@@ -25,7 +25,7 @@ int main(void)
 
 void testRandom_number(void)
 {
-    //TEST_ASSERT_EQUAL(10,random_number(10));
+
     TEST_ASSERT_EQUAL(1,random_number(1));
 }
 
